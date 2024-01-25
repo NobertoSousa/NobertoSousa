@@ -8,7 +8,7 @@ Sou um entusiasta por Ciência de Dados, focado em desvendar os insights ocultos
 - Análise Exploratória de Dados
 - Machine Learning
 - Visualização de Dados
-- Python, SQL, Power BI
+- Python, SQL
 
 ## 📫 Vamos Conectar?
 
